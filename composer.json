@@ -1,0 +1,21 @@
+{
+    "name": "mikefinch/yii2-fancy-article-editor",
+    "description": "This extensions allows you create and edit articles on your yii2 website.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," editor"," article"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Finch",
+            "email": "mishakozlov74@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikefinch\\fancyArticleEditor\\": ""
+        }
+    }
+}
